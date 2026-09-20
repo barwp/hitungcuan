@@ -1,0 +1,6 @@
+{
+  "name": "HitungCuan",
+  "description": "Aplikasi Kasir POS, Kalkulator HPP, Simulasi Margin & Titik Impas (BEP) untuk UMKM & F&B",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
